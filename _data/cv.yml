@@ -2,96 +2,103 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Xuzhe Zhang
     - name: Languages
-      value: English, German
+      value: English, Mandarin Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Biomedical Engieering
+      institution: Columbia University, New York, US
+      year: 2020-25
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Advised by <a href="https://www.bme.columbia.edu/faculty/andrew-laine">Andrew F. Laine</a>
+        - Research Assistant in <a href="https://hbil.bme.columbia.edu/">Heffner Biomedical Imaging Lab</a>
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+    - title: M.S. in Biomedical Engieering
+      institution: Columbia University, New York, US
+      year: 2018-19
+#      description:
+#        - Description 1.
+#        - Description 2.
+    - title: B.Eng. in Biomedical Engieering
+      institution: Northeastern University, Shenyang, CN
+      year: 2014-18
+#      description:
+#        - Description 1.
+#        - Description 2.
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+#- title: Experience
+#  type: time_table
+#  contents:
+#    - title: Professor of Theoretical Physics
+#      institution: Institute for Advanced Study, Princeton University
+#      year: 1933 - 1955
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+#    - title: Visiting Professor
+#      institution: California Institute of Technology, Pasadena, California, US
+#      year: 1933
+#      description:
+#        - Description 1.
+#        - Description 2.
+#
+#    - title: Director
+#      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#      year: 1917-1933
+#
+#    - title: Professor of Theoretical Physics
+#      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#      year: 1911 - 1917
+#      description:
+#
+#    - title: Associate Professor of Theoretical Physics
+#      institution: University of Zurich, Zurich, Switzerland
+#      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/XuzheZ/PTNet3D">PTNet3D</a>
+      year: 2022
+      description: A 3D image synthesis (T1w MRI -> T2w MRI or vice versa) framework for infant brain MRI based on transformers.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items:
+#        - Nobel Prize in Physics
+#        - Matteucci Medal
+#    - year: 2029
+#      items:
+#        - Max Planck Medal
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Deep learning and computer vision
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - How to make DL models more general to different modalities
+        - How to achieve multi-modality fusion
+    - title: Medical image analysis
       items:
-        - Description 1.
-        - Description 2.
+        - Develop open-source frameworks to facilitate medical image processing and interpretation through the above-mentioned tools
+    - title: Neuro- imaging and science
+      items:
+        - How can we better study brain and neurodevelopmental using neuroimaging?
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+#- title: Hobbies
+#  type: list
+#  contents:
+#    - Photography, cooking
