@@ -15,7 +15,7 @@ Reviewer:
 
 I am proudly serving or served as the reviewer for the following journals / conference. I am striving to provide high-quality, high-standard, and unbiased reviews.
 
-    IEEE Transactions on Medical Imaging
-    Frontiers in Neuroscience
-    Frontiers in Physics: Medical Physics and Imaging Section
-    MICCAI: International Conference on Medical Image Computing and Computer-Assisted Intervention
+*IEEE Transactions on Medical Imaging
+*Frontiers in Neuroscience
+*Frontiers in Physics: Medical Physics and Imaging Section
+*MICCAI: International Conference on Medical Image Computing and Computer-Assisted Intervention
