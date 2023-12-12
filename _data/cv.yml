@@ -70,8 +70,10 @@
   contents:
     - title: <a href="https://www.finneas.ai/">Online Infant Neuroimaging Analysis platform</a>
       year: 2023
-      description: An ongoing effort to facilitate neuroscience and early brain development studies by providing robust segmentation and quantification of subcortical regions via a web-based platform powered by AWS.\n\
-                   Featured robust model pretrained and semi-supervised fine-tuned on around 8,000 volumetric newborn-to-toddler structural brain MRI based on MAPSeg.\n\
+      description: An ongoing effort to facilitate neuroscience and early brain development studies by providing robust segmentation and quantification of subcortical regions via a web-based platform powered by AWS.
+                   
+                   Featured robust model pretrained and semi-supervised fine-tuned on around 8,000 volumetric newborn-to-toddler structural brain MRI based on MAPSeg.
+                   
                    More features are coming soon, including test-time and federated adaptation, open-source support, and preprocessing tools.
     - title: <a href="https://github.com/XuzheZ/PTNet3D">PTNet3D</a>
       year: 2022
@@ -93,7 +95,7 @@
   contents:
     - title: Deep learning and computer vision
       items: 
-        - How to make model a generalist agent in medical image analysis (Large vision model for medical image analysis)
+        - How to make model a generalist agent in medical image analysis (in-context learning in vision model for medical image analysis)
     - title: Medical image analysis
       items:
         - Develop open-source frameworks to facilitate medical image processing, quantification, and interpretation
