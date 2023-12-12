@@ -71,10 +71,6 @@
     - title: <a href="https://www.finneas.ai/">Online Infant Neuroimaging Analysis platform</a>
       year: 2023
       description: An ongoing effort to facilitate neuroscience and early brain development studies by providing robust segmentation and quantification of subcortical regions via a web-based platform powered by AWS.
-                   
-                   Featured robust model pretrained and semi-supervised fine-tuned on around 8,000 volumetric newborn-to-toddler structural brain MRI based on MAPSeg.
-                   
-                   More features are coming soon, including test-time and federated adaptation, open-source support, and preprocessing tools.
     - title: <a href="https://github.com/XuzheZ/PTNet3D">PTNet3D</a>
       year: 2022
       description: A 3D image synthesis (T1w MRI -> T2w MRI or vice versa) framework for infant brain MRI based on transformers.
