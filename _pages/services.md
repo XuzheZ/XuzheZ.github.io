@@ -17,4 +17,5 @@ I am proudly serving or served as the reviewer for the following journals / conf
 
 * IEEE Transactions on Medical Imaging
 * Medical Image Analysis
+* IEEE Journal of Biomedical and Health Informatics
 * MICCAI: International Conference on Medical Image Computing and Computer-Assisted Intervention
