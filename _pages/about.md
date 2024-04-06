@@ -6,7 +6,7 @@ subtitle: A lifelong learner
 
 profile:
   align: right
-  image: skydive.jpg
+  image: headshot_1.JPG
   image_cicular: false # crops the image to make it circular
 
 
