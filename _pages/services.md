@@ -4,7 +4,7 @@ permalink: /services/
 title: services
 #description: teaching and mentoring experience
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 Teaching Assistant: 
