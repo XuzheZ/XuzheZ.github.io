@@ -5,6 +5,8 @@
       value: Xuzhe Zhang
     - name: Languages
       value: English, Mandarin Chinese
+    - name: Full list of publications
+      value: <a href="https://scholar.google.com/citations?user=yWuW5UcAAAAJ">Google Scholar</a>
 
 - title: Education
   type: time_table
@@ -98,10 +100,3 @@
     - title: Neuro- imaging and science
       items:
         - How can we better study brain and neurodevelopment using neuroimaging
-
-- title: Publications
- type: nested_list
- contents:
-    - title: Full list of my publications
-      items: 
-        - Please check my <a href="https://scholar.google.com/citations?user=yWuW5UcAAAAJ">Google Scholar</a>
