@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: Xuzhe_CV_Feb2024.pdf
+cv_pdf: Xuzhe_CV_June2024.pdf
 ---
