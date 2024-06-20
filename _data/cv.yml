@@ -100,6 +100,8 @@
         - How can we better study brain and neurodevelopment using neuroimaging
 
 - title: Publications
- type: list
+ type: nested_list
  contents:
-   - For full list of my publications, please check my <a href="https://scholar.google.com/citations?user=yWuW5UcAAAAJ">Google Scholar</a>
+    - title: Full list of my publications
+      items: 
+        - Please check my <a href="https://scholar.google.com/citations?user=yWuW5UcAAAAJ">Google Scholar</a>
