@@ -70,6 +70,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/XuzheZ/MAPSeg">MAPSeg</a>
+      year: 2024
+      description: CVPR2024, Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling
     - title: <a href="https://www.finneas.ai/">Online Infant Neuroimaging Analysis platform</a>
       year: 2023
       description: An ongoing effort to facilitate neuroscience and early brain development studies by providing robust segmentation and quantification of subcortical regions via a web-based platform powered by AWS.
