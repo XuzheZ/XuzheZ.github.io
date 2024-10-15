@@ -21,3 +21,5 @@ I am proudly serving or served as the reviewer for the following journals / conf
 * IEEE Transactions on Neural Networks and Learning Systems (2024)
 * MICCAI: International Conference on Medical Image Computing and Computer-Assisted Intervention (2023-)
 * NeurIPS: Annual Conference on Neural Information Processing Systems (2024)
+* ICLR: International Conference on Learning Representations (2025)
+* AISTATS: International Conference on Artificial Intelligence and Statistics (2025)
